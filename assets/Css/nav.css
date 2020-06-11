@@ -37,7 +37,10 @@ p {
     }
 }
 
-
+p3 {
+    font-size: 30px;
+    font-weight: bold;
+}
 
 p2 {
     font-size: 30px;
@@ -245,6 +248,12 @@ border-radius:15px;
     grid-column-gap: 10px;
     grid-row-gap: 10px;
     }
+
+.parent > div{
+    font-size: 30px;
+    font-weight: bold;
+    color: #0b2d4c;
+}
 
 .footer {
     left: 0;
